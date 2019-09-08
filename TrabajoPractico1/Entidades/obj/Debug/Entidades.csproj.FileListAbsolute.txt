@@ -1,0 +1,6 @@
+G:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trabajo Practico 1\TrabajoPractico1\Entidades\bin\Debug\Entidades.dll
+G:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trabajo Practico 1\TrabajoPractico1\Entidades\bin\Debug\Entidades.pdb
+G:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trabajo Practico 1\TrabajoPractico1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+G:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trabajo Practico 1\TrabajoPractico1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+G:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trabajo Practico 1\TrabajoPractico1\Entidades\obj\Debug\Entidades.dll
+G:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trabajo Practico 1\TrabajoPractico1\Entidades\obj\Debug\Entidades.pdb

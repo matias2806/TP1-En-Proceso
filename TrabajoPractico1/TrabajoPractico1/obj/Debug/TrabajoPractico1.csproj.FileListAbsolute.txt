@@ -1,0 +1,10 @@
+G:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trabajo Practico 1\TrabajoPractico1\TrabajoPractico1\bin\Debug\TrabajoPractico1.exe.config
+G:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trabajo Practico 1\TrabajoPractico1\TrabajoPractico1\bin\Debug\TrabajoPractico1.exe
+G:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trabajo Practico 1\TrabajoPractico1\TrabajoPractico1\bin\Debug\TrabajoPractico1.pdb
+G:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trabajo Practico 1\TrabajoPractico1\TrabajoPractico1\bin\Debug\Entidades.dll
+G:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trabajo Practico 1\TrabajoPractico1\TrabajoPractico1\bin\Debug\Entidades.pdb
+G:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trabajo Practico 1\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.csprojAssemblyReference.cache
+G:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trabajo Practico 1\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.csproj.CoreCompileInputs.cache
+G:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trabajo Practico 1\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.csproj.CopyComplete
+G:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trabajo Practico 1\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.exe
+G:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trabajo Practico 1\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.pdb
